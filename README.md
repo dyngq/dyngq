@@ -8,7 +8,7 @@
 
 
 
-<div align="center"> <img src="https://github.com/dyngq/notebooks/blob/master/images/dyngq-initial/04.jpg?raw=true" width="62%" height="62%"/> </div>
+<div align="right"> <img src="https://github.com/dyngq/notebooks/blob/master/images/dyngq-initial/04.jpg?raw=true" width="62%" height="62%"/> </div>
 
 <h2 align="right">但行好事，莫问前程</h2>
 <h2 align="right">dyngq</h2>
