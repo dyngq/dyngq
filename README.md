@@ -9,7 +9,7 @@
 
 <h2> Projects</h2>
 
-* 1.[本科毕业设计：情感分析研究与应用](https://github.com/dyngq/sentiment-analysis--graduation-prioject/blob/master/README.md)
+* 1.[本科毕业设计：情感分析研究与应用](https://github.com/dyngq/sentiment-analysis--graduation-prioject/)
 
 <div align="right"> <img src="https://github.com/dyngq/notebooks/blob/master/images/dyngq-initial/04.jpg?raw=true" width="15%" height="15%"/> </div>
 
