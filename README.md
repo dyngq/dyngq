@@ -9,7 +9,7 @@
 
 <h2> Projects</h2>
 
-* 1.[本科毕业设计：情感分析研究与应用](https://github.com/dyngq/sentiment-analysis--graduation-prioject/)
+* 1.[本科毕业设计：基于深度学习与词嵌入的情感分析系统设计与实现](https://github.com/dyngq/sentiment-analysis--graduation-prioject/)
 
 <h2> Competitions</h2>
 
