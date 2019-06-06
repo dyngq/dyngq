@@ -17,7 +17,7 @@
 
 <h2> Daily_logs</h2>
 
-* 1.[2019-06-05](https://github.com/dyngq/daily-log/blob/master/daily-logs/20190605.md) 模型差别
+* 1.[2019-06-05 模型差别](https://github.com/dyngq/daily-log/blob/master/daily-logs/20190605.md) 
 
 <div align="right"> <img src="https://github.com/dyngq/notebooks/blob/master/images/dyngq-initial/04_1.jpg?raw=true" width="15%" height="15%"/> </div>
 
