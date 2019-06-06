@@ -15,7 +15,11 @@
 
 * 1.[DataCon大数据安全比赛](https://github.com/dyngq/sentiment-analysis--graduation-prioject/)
 
-<div align="right"> <img src="https://github.com/dyngq/notebooks/blob/master/images/dyngq-initial/04.jpg?raw=true" width="15%" height="15%"/> </div>
+<h2> Daily_logs</h2>
+
+* 1.[2019-06-05](https://github.com/dyngq/daily-log/blob/master/daily-logs/20190605.md) 模型差别
+
+<div align="right"> <img src="https://github.com/dyngq/notebooks/blob/master/images/dyngq-initial/04_1.jpg?raw=true" width="100%" height="100%"/> </div>
 
 <h2 align="right">但行好事，莫问前程</h2>
 <h2 align="right">dyngq</h2>
