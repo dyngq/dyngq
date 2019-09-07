@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/dyngq/summary-notebooks-of-postgraduate/blob/master/images/dyngq-initial/14.jpg?raw=true" width="130%" height="130%"/> </div>
+<div align="center"> <img src="images/dyngq_2019-09-07-11-30-13.png" width="130%" height="130%"/> </div>
 
 <h2 align="right">不管什么时候开始，开始了就不要停止</h2>
 
@@ -12,11 +12,13 @@
 
 ## Projects
 
-* 1.[本科毕业设计：基于深度学习与词嵌入的情感分析系统设计与实现](https://github.com/dyngq/sentiment-analysis--graduation-prioject/)
+1.[本科毕业设计：基于深度学习与词嵌入的情感分析系统设计与实现](https://github.com/dyngq/sentiment-analysis-project)
 
 ## Competitions
 
-* 1.[DataCon大数据安全比赛](https://github.com/dyngq/sentiment-analysis--graduation-prioject/)
+1. [201903_研究生入学考试复试PTA机试_刷题](https://github.com/dyngq/Competitions/tree/master/201903_%E7%A0%94%E7%A9%B6%E7%94%9F%E5%85%A5%E5%AD%A6%E8%80%83%E8%AF%95_%E5%A4%8D%E8%AF%95_PTA%E6%9C%BA%E8%AF%95)
+2. [201904_Datacon大数据安全比赛](https://github.com/dyngq/Competitions/tree/master/201904_Datacon%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8%E6%AF%94%E8%B5%9B)
+3. [201907_绿色计算大赛](https://github.com/dyngq/Competitions/tree/master/201907_%E7%BB%BF%E8%89%B2%E8%AE%A1%E7%AE%97%E5%A4%A7%E8%B5%9B)
 
 ## Daily_logs
 
@@ -25,7 +27,7 @@
 3. [2019-07-21_关于贝叶斯相关概率论知识的学习与简单总结.md](https://github.com/dyngq/daily-log/blob/master/daily-logs/2019-07-21_关于贝叶斯相关概率论知识的学习与简单总结.md)
 4. [2019-07-22_服务器搭建博客总结](https://github.com/dyngq/daily-log/blob/master/daily-logs/2019-07-22_服务器搭建博客总结.md)
 
-<div align="right"> <img src="https://github.com/dyngq/notebooks/blob/master/images/dyngq-initial/04_1.jpg?raw=true" width="15%" height="15%"/> </div>
+<div align="right"> <img src="images/dyngq_2019-09-07-11-35-58.png" width="15%" height="15%"/> </div>
 
 <h2 align="right">但行好事，莫问前程</h2>
 <h2 align="right">dyngq</h2>
