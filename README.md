@@ -18,6 +18,7 @@
 ## Projects
 
 1. [本科毕业设计：基于深度学习与词嵌入的情感分析系统设计与实现](https://github.com/dyngq/sentiment-analysis-project)
+2. [准考证号“爆破”——解决忘记准考证号无法查询考研初始成绩（校官网）](https://github.com/dyngq/summary-notebooks-of-postgraduate/tree/master/Python/burst_number)
 
 ## Competitions
 
