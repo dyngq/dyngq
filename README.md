@@ -4,3 +4,5 @@
 
 * 机器学习
 * 信息安全
+
+my_blog: https://dyngq.top
