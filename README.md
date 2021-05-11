@@ -3,6 +3,7 @@
 <h4 align="center">不管什么时候开始，开始了就不要停止</h4>
 
 * 机器学习
+* 推荐系统
 * 信息安全
 
 my_blog: https://dyngq.top
